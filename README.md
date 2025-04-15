@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello there! My name is Felipe Rabelo. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Felipe Rabelo.</h2>
 <p align="center">I'm currently a student pursuing my Bachelor of Technology Information from UFMS (BR-MS). 
 </p>
 
@@ -21,7 +21,7 @@
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/Front End-magenta"> 
-  <img src="https://img.shields.io/badge/Bakcend-blue"> 
+  <img src="https://img.shields.io/badge/Back End-blue"> 
 </p>
 <hr>
 <p align="center"> 
