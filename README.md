@@ -9,15 +9,6 @@
 <p align="center"
    <a align=center href="https://www.linkedin.com/in/felipe-rabelo-165543146/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <p/>
      
-<p align=center>
-  <a href="https://github.com/fehrabelo">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/fehrabelo?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
 <p align="center">
 <a href="https://github.com/fehrabelo"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
 </p>
