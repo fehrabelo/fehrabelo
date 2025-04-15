@@ -7,7 +7,10 @@
 </p>
 
 <p align="center"
-   <a align=center href="https://www.linkedin.com/in/felipe-rabelo-165543146/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <p/>
+   <a align=center href="https://www.linkedin.com/in/felipe-rabelo-165543146/">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+   </a>
+   <p/>
      
 
 <p align="center">
@@ -29,7 +32,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=fehrabelo&show_icons=true&theme=dark">
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langsusername=fehrabelo&show_icons=true&layout=compact&theme=dark">
 </p>
 
 <p align=center>
