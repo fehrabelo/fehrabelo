@@ -32,7 +32,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langsusername=fehrabelo&show_icons=true&layout=compact&theme=dark">
+     <img align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=fehrabelo&show_icons=true&locale=en&layout=compact">
 </p>
 
 <p align=center>
