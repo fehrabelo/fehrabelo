@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello there! My name is Felipe Rabelo.</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology Information from UFMS (BR-MS). 
+<p align="center">I'm full-stack developer working mostly with C#, .NET and Angular 2+. 
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me playing video games with my friends, playing guitar or listening to music.</p> 
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Back End-blue"> 
 </p>
 
+## 🔧 Technologies & Tools
 <hr>
 <p align="center"> 
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+## &#x1f4c8; GitHub Stats
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=fehrabelo&show_icons=true&theme=dark">
 </p>
